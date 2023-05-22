@@ -4,6 +4,7 @@ This repo contains a basic example for deploying applications with AWS CodeDeplo
 
 
 ## How To Use this example
+* Clone this Repo on your Local machine and upload it to your Bitbucket account repo
 * Create an AMI 2023 EC2 Instance & Attach `AmazonEC2CodeDeploy` Role with `AmazonEC2RoleforAWSCodeDeploy` Policy attached to it
 * Install NodeJS on it (https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html) & Change node version in `app/scripts/start.sh` file.
 * Install CodeDeployAgent on it (https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-linux.html)
