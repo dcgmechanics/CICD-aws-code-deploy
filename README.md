@@ -2,7 +2,7 @@
 
 This repo contains a basic example for deploying applications with AWS CodeDeploy using aws-coded-deploy pipe. It this example we build and deploy a simple JavaScript application to AWS.
 
-# Medium Blog Link:
+## Medium Blog Link:
  https://medium.com/codelogicx/cicd-deploy-to-aws-codedeploy-with-bitbucket-pipeline-b5da79b55477
 
 ## How To Use this example
